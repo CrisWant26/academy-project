@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+.AppleDouble
+
+# Xcode
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+*.xcscmblueprint
+
+# Swift Package Manager
+.swiftpm/
+.build/
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.p12
+*.mobileprovision
